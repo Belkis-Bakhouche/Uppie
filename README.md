@@ -1,4 +1,4 @@
-# appli
+# UPPIE
 
 A new Flutter project.
 
