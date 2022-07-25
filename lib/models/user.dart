@@ -4,7 +4,7 @@ class User {
   final String email;
   final String password;
   final String avatar;
-  final int score;
+   int score;
   User(
       {this.uid,
       this.fullname,
