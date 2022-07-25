@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334160966272",
+    "project_id": "uppie-b82ff",
+    "storage_bucket": "uppie-b82ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334160966272:android:1dc37c5ff9b6b1f150ac65",
+        "android_client_info": {
+          "package_name": "com.team06.uppie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334160966272-u0q1eot2q7627l77j10s9dl7f83vvqro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuO0OxGqWULi1Sgsond24xuYhKSItSxAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334160966272-u0q1eot2q7627l77j10s9dl7f83vvqro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appli"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"
+                    android:name="android.permission.PACKAGE_USAGE_STATS"
+                    tools:ignore="ProtectedPermissions"/>
+</manifest>
